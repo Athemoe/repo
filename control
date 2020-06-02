@@ -1,0 +1,9 @@
+Package: com.athemoe.colorswitch
+Name: colorswitch
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Change color switches
+Maintainer: Jordy
+Author: Jordy
+Section: Tweaks
